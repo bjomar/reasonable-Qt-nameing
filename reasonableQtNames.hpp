@@ -1,5 +1,5 @@
 /* 
-*	Copyright 2018 Björn Marx
+*	Copyright 2018 BjÃ¶rn Marx
 *
 *	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the
 *	Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the 
@@ -1432,8 +1432,8 @@ namespace Qt {
 	using TreeWidget = QTreeWidget;
 	using TreeWidgetItem = QTreeWidgetItem;
 	using TreeWidgetItemIterator = QTreeWidgetItemIterator;
-	using tROClientFactory = QtROClientFactory;
-	using tROServerFactory = QtROServerFactory;
+	using ROClientFactory = QtROClientFactory;
+	using ROServerFactory = QtROServerFactory;
 	using UdpSocket = UQUdpSocket;
 	using UiLoader = QUiLoader;
 	using UndoCommand = QUndoCommand;
