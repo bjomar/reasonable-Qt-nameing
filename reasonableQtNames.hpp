@@ -23,7 +23,7 @@
 #ifndef REASONABLE_QT_NAMES
 #define REASONABLE_QT_NAMES
 
-namespace Qt {
+namespace qt {
 
 	using _3DBars = Q3DBars;
 	using _3DCamera = Q3DCamera;
